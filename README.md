@@ -8,7 +8,7 @@ The primary workflow lives in `genomic_variant_mechanistic_interpretability.ipyn
 - `data_download_exploration.ipynb`: step-by-step download and verification for ClinVar, hg38 references used by the notebooks, and other datasets that could also be used in the future.
 - `genomic_variant_mechanistic_interpretability.ipynb`: loads data, builds ref/alt contexts, trains the classifier, and runs mechanistic interpretability analyses.
 
-## Quickstart (notebook-first)
+## Quickstart 
 
 1) Setup environment
 ```bash
