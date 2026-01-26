@@ -1,7 +1,6 @@
-# Sarah Salloum
 # Genomic Variant Mechanistic Interpretability
-# REF/ALT variant Classifier + Attention-Based Analysis on ClinVar
-
+## REF/ALT variant Classifier + Attention-Based Analysis on ClinVar
+## by Sarah Salloum
 
 This repository focuses on mechanistic interpretability experiments for genomic variant classification using Genomic Foundation Models.
 The primary workflow lives in `genomic_variant_mechanistic_interpretability.ipynb`.
